@@ -1,6 +1,6 @@
-## About
+## About Fleshwound
 
-Python script to calculate the [Thoracoscore] [1] predicted in-hospital mortality amongst adult patients after general thoracic surgery.
+Fleshwound is a Python script to calculate the [Thoracoscore] [1] predicted in-hospital mortality amongst adult patients after general thoracic surgery.
 
 ## Disclaimer
 
